@@ -1,0 +1,91 @@
+/* Space Grotesk - Fallback font */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Space Grotesk Light'), local('SpaceGrotesk-Light'),
+       url('https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMBBSSJLm2E.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Space Grotesk Regular'), local('SpaceGrotesk-Regular'),
+       url('https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMBBSSJLm2E.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Space Grotesk Medium'), local('SpaceGrotesk-Medium'),
+       url('https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMBBSSJLm2E.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Space Grotesk SemiBold'), local('SpaceGrotesk-SemiBold'),
+       url('https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMBBSSJLm2E.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Space Grotesk Bold'), local('SpaceGrotesk-Bold'),
+       url('https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMBBSSJLm2E.woff2') format('woff2');
+}
+
+/* Syne - Fallback font */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Syne Regular'), local('Syne-Regular'),
+       url('https://fonts.gstatic.com/s/syne/v22/8vIH7w4qzmVxm2BL9Z0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Syne Medium'), local('Syne-Medium'),
+       url('https://fonts.gstatic.com/s/syne/v22/8vIH7w4qzmVxm2BL9Z0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Syne SemiBold'), local('Syne-SemiBold'),
+       url('https://fonts.gstatic.com/s/syne/v22/8vIH7w4qzmVxm2BL9Z0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Syne Bold'), local('Syne-Bold'),
+       url('https://fonts.gstatic.com/s/syne/v22/8vIH7w4qzmVxm2BL9Z0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('Syne ExtraBold'), local('Syne-ExtraBold'),
+       url('https://fonts.gstatic.com/s/syne/v22/8vIH7w4qzmVxm2BL9Z0.woff2') format('woff2');
+}
