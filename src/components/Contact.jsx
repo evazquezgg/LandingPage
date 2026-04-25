@@ -23,7 +23,7 @@ const Contact = () => {
   }
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'evazquezgg@solucionesedo.com', href: 'mailto:evazquezgg@solucionesedo.com' },
+    { icon: Mail, label: 'Email', value: 'contacto@ejemplo.com', href: 'mailto:contacto@ejemplo.com' },
     { icon: MapPin, label: 'Ubicación', value: 'México', href: '#' },
   ]
 

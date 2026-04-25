@@ -92,7 +92,7 @@ const Footer = () => {
         {/* Bottom bar */}
         <div className="mt-8 pt-8 border-t border-tokyo-blue/5 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-tokyo-text-dark">
-            © {currentYear} Eduardo Vásquez García. Todos los derechos reservados.
+            © {currentYear} Todos los derechos reservados.
           </p>
           <p className="text-sm text-tokyo-text-dark flex items-center gap-1">
             Hecho con <Heart className="w-4 h-4 text-tokyo-red fill-tokyo-red" /> en México

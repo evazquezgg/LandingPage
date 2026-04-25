@@ -78,7 +78,7 @@ const Hero = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-xl md:text-2xl text-tokyo-text-dark max-w-2xl mx-auto mb-4 font-light"
         >
-          Eduardo Vásquez García
+          Desarrollador Freelance
         </motion.p>
 
         <motion.p

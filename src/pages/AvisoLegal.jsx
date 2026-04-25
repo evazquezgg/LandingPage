@@ -9,7 +9,7 @@ const AvisoLegal = () => {
     {
       icon: Shield,
       title: '1. Introducción',
-      content: `Eduardo Vásquez García ("nosotros", "nuestro" o "desarrollador") respeta tu privacidad y se compromete a proteger tus datos personales. Esta Política de Privacidad describe cómo recopilamos, usamos, almacenamos y protegemos tu información cuando utilizas nuestras aplicaciones y servicios.
+      content: `El desarrollador ("nosotros", "nuestro" o "desarrollador") respeta tu privacidad y se compromete a proteger tus datos personales. Esta Política de Privacidad describe cómo recopilamos, usamos, almacenamos y protegemos tu información cuando utilizas nuestras aplicaciones y servicios.
 
 Al utilizar nuestros servicios, aceptas las prácticas descritas en esta política. Si no estás de acuerdo con esta política, por favor no utilices nuestras aplicaciones.`
     },
@@ -189,11 +189,11 @@ Si tienes conocimiento de que un menor ha proporcionado información personal, c
                   con esta Política de Privacidad, puedes contactarnos:
                 </p>
                 <div className="space-y-2 text-tokyo-text-light">
-                  <p><strong className="text-white">Responsable:</strong> Eduardo Vásquez García</p>
+                  <p><strong className="text-white">Responsable:</strong> Desarrollador Freelance</p>
                   <p>
                     <strong className="text-white">Email:</strong>{' '}
-                    <a href="mailto:evazquezgg@solucionesedo.com" className="text-tokyo-cyan hover:underline">
-                      evazquezgg@solucionesedo.com
+                    <a href="mailto:contacto@ejemplo.com" className="text-tokyo-cyan hover:underline">
+                      contacto@ejemplo.com
                     </a>
                   </p>
                   <p><strong className="text-white">Ubicación:</strong> México</p>
@@ -210,7 +210,7 @@ Si tienes conocimiento de que un menor ha proporcionado información personal, c
           transition={{ duration: 0.5, delay: 1 }}
           className="mt-12 text-center text-tokyo-text-dark text-sm"
         >
-          <p>© 2026 Eduardo Vásquez García. Todos los derechos reservados.</p>
+          <p>© 2026 Todos los derechos reservados.</p>
         </motion.div>
       </div>
     </div>
